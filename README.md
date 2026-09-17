@@ -35,7 +35,7 @@ A CMS-like Flutter application for class/assessment evaluation.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/class_evaluation_app.git
+   git clone https://github.com/anascodes786/class_evaluation_app.git
    cd class_evaluation_app
    ```
 
